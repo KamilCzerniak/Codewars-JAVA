@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class BeginnerReduceButGrow {
     public static int grow(int[] x) {
         int result = 1;
