@@ -1,5 +1,4 @@
 ### Product Of Maximums Of Array (Array Series #2)
-#### Description
 
 **Task**  
 Given an array/list [] of integers, find the product of the k maximal numbers.  
