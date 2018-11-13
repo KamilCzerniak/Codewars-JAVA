@@ -1,4 +1,5 @@
-### Description
+### Tidy Number (Special Numbers Series #9)
+#### Description
 
 **Definition**  
 A Tidy number is a number whose digits are in non-decreasing order.
