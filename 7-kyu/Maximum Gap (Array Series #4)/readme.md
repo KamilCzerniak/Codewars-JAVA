@@ -33,3 +33,5 @@ Note : Regardless the sign of negativity.
 **Explanation:**  
 The Maximum Gap after sorting the array is `576`, The difference between `| 64 - 640 | = 576`.  
 Note : Regardless the sign of negativity.  
+
+The link to this [kata](https://www.codewars.com/kata/maximum-gap-array-series-number-4)
