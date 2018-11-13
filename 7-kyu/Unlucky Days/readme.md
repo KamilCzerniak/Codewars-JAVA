@@ -12,4 +12,4 @@ unluckyDays(1986) == 1
 ```    
 ***Note:*** for Ruby consider using the Gregorian Calendar instead of the default one (Italian), to have results coherent with other languages.
 
-View this kata on [Codewars.com](https://www.codewars.com/kata/unlucky-days)
+The link to this kata [www.codewars.com](https://www.codewars.com/kata/unlucky-days)
