@@ -15,3 +15,5 @@ You can take a `sheet`, but not your `blanket`.
 You can wear your `glasses`, but not your `contacts`.
 
 Have you figured it out? Good! Then write a program that can figure it out as well.
+
+The link to this [kata](https://www.codewars.com/kata/green-glass-door/java)
