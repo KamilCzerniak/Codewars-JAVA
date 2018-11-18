@@ -8,6 +8,6 @@ Trigrams are a special case of the n-gram, where n is 3. One trigram is a contin
 
 **Example:**  
 
-trigrams('the quick red') == the he_ e_q _qu qui uic ick ck_ k_r _re red
+trigrams('the quick red') == the he_ e_q \_qu qui uic ick ck\_ k_r _re red
 
 The link to this [kata](https://www.codewars.com/kata/trigrams/java)
