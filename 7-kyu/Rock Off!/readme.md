@@ -6,7 +6,7 @@ For each one of these 3 categories they are going to be awarded one point, shoul
 
 You are going to receive two arrays, containing first the score of Alice's band and then those of Bob's. Your task is to find their total score by comparing them in a single line.
 
-Example:
+**Example:**  
 
 Alice's band plays a Nirvana inspired grunge and has been rated `20` for Heaviness, `32` for Originality and only `18` for Outfits. Bob listens to Slayer and has gotten a good `48` for Heaviness, `25` for Originality and a rather honest `40` for Outfits.
 
