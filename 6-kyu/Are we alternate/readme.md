@@ -11,4 +11,4 @@ isAlt("banana")
 ```
 Arguments consist of only lowercase letters.  
 
-The link to this [kata](https://www.codewars.com/kata/are-we-alternate/javascript)
+The link to this [kata](https://www.codewars.com/kata/are-we-alternate/java)
