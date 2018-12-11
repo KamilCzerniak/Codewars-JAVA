@@ -16,4 +16,4 @@ The rules themselves are rather easy:
 
 For example, the word "spaghetti" becomes "aghettispay" because the first two letters ("sp") are consonants, so they are moved to the end of the string and "ay" is appended.  
 
-The link to this [kata](https://www.codewars.com/kata/single-word-pig-latin/javascript)
+The link to this [kata](https://www.codewars.com/kata/single-word-pig-latin/java)
