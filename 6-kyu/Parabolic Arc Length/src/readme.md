@@ -8,4 +8,4 @@ The function `len_curve` (or similar in other languages) takes `n` as parameter 
 
 ![](http://i.imgur.com/kyjJcE4.png)
 
-The link to this [kata](https://www.codewars.com/kata/parabolic-arc-length/javascript)
+The link to this [kata](https://www.codewars.com/kata/parabolic-arc-length/java)
