@@ -24,4 +24,4 @@ When the same attribute is assigned multiple times the `hello` method shows it o
 
 Fix the code so we can all go home early.  
 
-The link to this [kata](https://www.codewars.com/kata/fixme-hello/javascript)
+The link to this [kata](https://www.codewars.com/kata/fixme-hello/java)
