@@ -7,9 +7,9 @@ Let us define two sums `u(n, p)` and `v(n, p)`:
 ![](http://latex.codecogs.com/gif.latex?\bg_green&space;\large&space;v(n,&space;p)&space;=&space;\sum_{k=0}^{n}{(-1)^k}*p*{4^{n-k}}*\binom{2n-k}{k})
 
 **Task:**
-* 1 Calculate `u(n, p)` and `v(n, p)` with two brute-force functions `u1(n, p)` and `v1(n, p)`.
-* 2 Try `u1(n, p)` and `v1(n, p)` for small values of `n` and `p` and guess the results of `u(n, p)` and `v(n, p)`
-* 3 Using 2) write `u_eff(n, p)` and `v_eff(n, p)` (or `uEff(n, p)` and `vEff(n, p)` or `u-eff(n, p)` and `v-eff(n, p))` to efficiently calculate `u` and `v` for bigger values of `n` and `p`
+* **1)** Calculate `u(n, p)` and `v(n, p)` with two brute-force functions `u1(n, p)` and `v1(n, p)`.
+* **2)** Try `u1(n, p)` and `v1(n, p)` for small values of `n` and `p` and guess the results of `u(n, p)` and `v(n, p)`
+* **3)** Using 2) write `u_eff(n, p)` and `v_eff(n, p)` (or `uEff(n, p)` and `vEff(n, p)` or `u-eff(n, p)` and `v-eff(n, p))` to efficiently calculate `u` and `v` for bigger values of `n` and `p`
 
 (This third part is not tested in
 
