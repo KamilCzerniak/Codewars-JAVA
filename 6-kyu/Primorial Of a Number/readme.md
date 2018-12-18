@@ -1,0 +1,46 @@
+### Primorial Of a Number
+
+**Definition (Primorial Of a Number)**
+
+Is similar to factorial of a number, In primorial, not all the natural numbers get multiplied, only prime numbers are multiplied to calculate the primorial of a number. It's denoted with P<sub>#</sub>.
+
+**Task**  
+Given a number N , calculate its primorial. ![](https://i.imgur.com/mdX8dJP.png)![](https://i.imgur.com/mdX8dJP.png)
+
+**Notes**
+* Only positive numbers will be passed (N > 0) .
+
+**Input >> Output Examples:**  
+```java
+1- numPrimorial (3) ==> return (30)
+```
+**Explanation:**
+
+Since the passed number is (3) ,Then the primorial should obtained by multiplying `2 * 3 * 5 = 30` .
+
+Mathematically written as , P<sub>3</sub># = 30 .
+```java
+2- numPrimorial (5) ==> return (2310)
+```
+**Explanation:**  
+
+Since the passed number is (5) ,Then the primorial should obtained by multiplying `2 * 3 * 5 * 7 * 11 = 2310` .
+
+Mathematically written as , P<sub>5</sub># = 2310 .
+```java
+3- numPrimorial (6) ==> return (30030)
+```
+**Explanation:**  
+
+Since the passed number is (6) ,Then the primorial should obtained by multiplying `2 * 3 * 5 * 7 * 11 * 13 = 30030` .
+
+Mathematically written as , P<sub>6</sub># = 30030 .
+
+[Playing with Numbers Series](https://www.codewars.com/collections/playing-with-numbers)
+
+[Playing With Lists/Arrays Series](https://www.codewars.com/collections/playing-with-lists-slash-arrays)
+
+[For More Enjoyable Katas](http://www.codewars.com/users/MrZizoScream/authored)  
+
+The link to this [kata](https://www.codewars.com/kata/primorial-of-a-number/java)
+
