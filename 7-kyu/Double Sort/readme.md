@@ -4,4 +4,4 @@ Your job is to return a single array that has first the numbers sorted in ascend
 
 Note that numbers written as strings are strings and must be sorted with the other strings.  
 
-The link to this [kata](https://www.codewars.com/kata/double-sort/java)
+The link to this [kata](https://www.codewars.com/kata/double-sort/javascript)
