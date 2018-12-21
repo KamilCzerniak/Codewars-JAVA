@@ -3,32 +3,32 @@ public class Diamond {
         if (n < 0 || n % 2 == 0) {
             return null;
         }
-        String temp = "";
+        StringBuilder temp = new StringBuilder();
         for (int i = 0; i < n / 2 + 1; i++) {
             for (int j = 0; j < n; j++) {
                 if (j < n / 2 - i) {
-                    temp += " ";
+                    temp.append(" ");
                 } else if (j > n / 2 + i) {
-                    temp += "\n";
+                    temp.append("\n");
                     break;
                 } else {
-                    temp += "*";
+                    temp.append("*");
                 }
             }
         }
-        temp += "\n";
+        temp.append("\n");
         for (int i = 0; i < n / 2; i++) {
             for (int j = 0; j < n; j++) {
                 if (j <= i) {
-                    temp += " ";
+                    temp.append(" ");
                 } else if (j >= n - i - 1) {
-                    temp += "\n";
+                    temp.append("\n");
                     break;
                 } else {
-                    temp += "*";
+                    temp.append("*");
                 }
             }
         }
-        return temp;
+        return temp.toString();
     }
 }
