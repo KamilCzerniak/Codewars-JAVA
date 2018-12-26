@@ -7,12 +7,12 @@ class Epidem {
         double max = 0;
         double sNext;
         double iNext = 0;
-        double delta = (double) tm / n;
+        double dt = (double) tm / n;
 
         while (iNext >= max) {
             max = iNext;
-            sNext = s - delta * b * s * i;
-            iNext = i + delta * (b * s * i - a * i);
+            sNext = s - dt * b * s * i;
+            iNext = i + dt * (b * s * i - a * i);
             i = iNext;
             s = sNext;
         }
