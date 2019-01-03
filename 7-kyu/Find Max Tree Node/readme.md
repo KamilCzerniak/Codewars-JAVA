@@ -1,6 +1,6 @@
 ### Find Max Tree Node
 
-You are given a binary tree. Implement the method findMax which returns the maximal node valuein the tree.
+You are given a binary tree. Implement the method findMax which returns the maximal node value in the tree.
 
 For example, maximum in the following Tree is 11.
 ```
