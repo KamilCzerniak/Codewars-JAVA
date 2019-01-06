@@ -1,4 +1,3 @@
-
 package com.codewars.julesnuggy;
 import java.util.stream.IntStream;
 
