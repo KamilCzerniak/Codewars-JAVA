@@ -4,8 +4,6 @@
 
 A collatz sequence, starting with a positive integern, is found by repeatedly applying the following function to n until n == 1 :
 
-<img style=""src="http://latex.codecogs.com/png.latex?\bg_white&space;n&space;=&space;\begin{cases}&space;\frac{n}{2}&space;&&space;\text&space;{if&space;}&space;n&space;\text{&space;is&space;even}&space;\\&space;3n&space;+&space;1&space;&&space;\text{otherwise}&space;\end{cases}">
-
  *n = { n / 2 for even n ;  
       3n + 1 for odd n }*
 
