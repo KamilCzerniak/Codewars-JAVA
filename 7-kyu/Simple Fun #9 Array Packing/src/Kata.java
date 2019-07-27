@@ -9,9 +9,4 @@ public class Kata {
                 .map(s -> "00000000".substring(0, 8 - s.length()) + s)
                 .collect(Collectors.joining("")), 2);
     }
-
-    public static void main(String[] args) {
-        System.out.println(arrayPacking(new int[]{255, 255, 255, 255}));
-    }
-
 }
