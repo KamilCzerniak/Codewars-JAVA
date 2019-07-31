@@ -7,7 +7,7 @@ In a team meeting, a terrible, awful person declares to the group that you aren'
 Given a `Person` array (meet) containing team members, you need to assess the overall happiness rating of the group. If <= 5, return "Get Out Now!". Else return "Nice Work Champ!".
 
 The `Person` class looks like:
-```
+```java
 class Person {
   final String name;    // team memnber's name
   final int happiness;  // happiness rating out of 10
