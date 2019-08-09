@@ -22,7 +22,9 @@ public class RoboScript {
         }
 
         list.add(temp.toString());
-        return list.stream().map(s -> wrapCommand(s)).collect(Collectors.joining());
+        return list.stream()
+                .map(s -> wrapCommand(s))
+                .collect(Collectors.joining());
 
     }
 
